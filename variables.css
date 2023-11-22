@@ -1,0 +1,46 @@
+:root {
+  /** colors */
+  --color-name: custom;
+  --color-bg-shade: #13131E;
+  --color-bg-base: #181825;
+  --color-bg-surface: #1D1D2C;
+  --color-bg-highlight: #222234;
+  --color-fg-shade: #565A6B;
+  --color-fg-base: #6C7086;
+  --color-fg-surface: #85899D;
+  --color-fg-highlight: #A0A3B3;
+  --color-primary-bg: #284AB8;
+  --color-primary-base: #CDD6F4;
+  --color-primary-fg: #FFFFFF;
+  --color-secondary-bg: #284AB8;
+  --color-secondary-base: #CDD6F4;
+  --color-secondary-fg: #FFFFFF;
+  --color-palette-red: #E06C75;
+  --color-palette-green: #98C379;
+  --color-palette-yellow: #E5C07B;
+  --color-palette-blue: #61AFEF;
+  --color-palette-purple: #C678DD;
+  --color-palette-cyan: #56B6C2;
+  --color-palette-orange: #FFBB7C;
+  
+  /** general */
+  --font-family: Share Tech Mono;
+  --font-size: 1;
+  --display-image: block;
+
+  /** surface */
+  --surface-maxWidth: 1160px;
+  --surface-shadow: 6px 6px 1px rgb(40, 74, 184), 12px 12px 1px rgb(40, 74, 184);
+  --surface-borderRadius: 10px;
+
+  /** spacing */
+  --space-smallest: 0.125rem;
+  --space-small: 0.5rem;
+  --space-medium: 1rem;
+  --space-large: 1.5rem;
+  --space-largest: 3rem;
+
+  /** others */
+  --picture-size: 300px;
+  --group-count: 4;
+}
